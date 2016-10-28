@@ -1124,14 +1124,10 @@ make.start()
 ### GROUP 6
 
 &lt;small&gt;
-Created by [kmolab](http://chiamingyen.github.io/kmolab/blog/)
+Created by [2016fallcadp_bg6](http://chiamingyen.github.io/kmolab/blog/)
 &lt;/small&gt;
 
-[甲班電腦輔助設計實習課程網誌](blog/index.html)
-
-[乙班電腦輔助設計實習課程網誌](https://mdecourse.github.io/2016fallcadpb/blog)
-
-[Vimeo 上課影片](https://vimeo.com/user24079973/videos)
+[2016fallcadp_bg6](blog/index.html)
 </t>
 <t tx="leo.20161014112850.9">&lt;section&gt;
 @others
