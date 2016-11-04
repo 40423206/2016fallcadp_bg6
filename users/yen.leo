@@ -15,7 +15,7 @@
 </v>
 <v t="amd.20160921213353.1"><vh>2016fall 簡報與網誌樣板系統</vh></v>
 <v t="amd.20160106095324.1" a="E"><vh>@path ./../</vh>
-<v t="leo.20151213173830.1"><vh>假如要在近端檢視, 使用下列按鈕</vh>
+<v t="leo.20151213173830.1" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="leo.20151213085727.1"><vh>@button pelican-blog</vh></v>
 </v>
 <v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
@@ -26,66 +26,53 @@
 <v t="leo.20161014112850.4" a="E"><vh>body</vh>
 <v t="leo.20161014112850.5" a="E"><vh>reveal div</vh>
 <v t="leo.20161014112850.6" a="E"><vh>slides div</vh>
-<v t="leo.20161014112850.7" a="E"><vh>封面投影片</vh>
+<v t="leo.20161014112850.7"><vh>封面投影片</vh>
 <v t="leo.20161014112850.8"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20161014112850.9"><vh>三大主題教學</vh>
-<v t="leo.20161014112850.10" a="E"><vh>主題教學</vh>
-<v t="leo.20161014112850.11"><vh>電腦輔助設計在教什麼?</vh></v>
-</v>
-<v t="leo.20161014112850.12" a="E"><vh>主題教學內容</vh>
-<v t="leo.20161014112850.13"><vh>電腦輔助設計在教什麼?</vh></v>
-</v>
-<v t="leo.20161014112850.14" a="E"><vh>相關課程</vh>
-<v t="leo.20161014112850.15"><vh>電腦輔助設計系列課程</vh></v>
-</v>
-<v t="leo.20161014112850.16" a="E"><vh>創造力</vh>
-<v t="leo.20161014112850.17"><vh>何謂創造力?</vh></v>
-</v>
-<v t="leo.20161014112850.18" a="E"><vh>創造力</vh>
-<v t="leo.20161014112850.19"><vh>何謂創造力?</vh></v>
-</v>
-<v t="leo.20161014112850.20" a="E"><vh>所謂自學</vh>
-<v t="leo.20161014112850.21"><vh>自學的訓練</vh></v>
-</v>
-<v t="leo.20161014112850.22" a="E"><vh>執行力</vh>
-<v t="leo.20161014112850.23"><vh>高效執行力</vh></v>
+<v t="leo.20161014112850.9"><vh>20160916W1</vh>
+<v t="leo.20161014112850.10"><vh>上課日期</vh>
+<v t="leo.20161014112850.11"><vh>20160916</vh></v>
 </v>
 </v>
-<v t="leo.20161014112850.24"><vh>電腦輔助設計課程內涵</vh>
-<v t="leo.20161014112850.25" a="E"><vh>電腦輔助設計課程內涵</vh>
-<v t="leo.20161014112850.26"><vh>CAD 教學主題</vh></v>
-</v>
-<v t="leo.20161014112850.27"><vh>Github pages 網頁</vh>
-<v t="leo.20161014112850.28"><vh>各學員任務</vh></v>
-</v>
-<v t="leo.20161014112850.29"><vh>所有操作都必須拍影片</vh>
-<v t="leo.20161014112850.30"><vh>操作影片</vh></v>
-</v>
-<v t="leo.20161014112850.31"><vh>Solvespace 操作練習</vh>
-<v t="leo.20161014112850.32"><vh>Solvespace 實習</vh></v>
-</v>
-<v t="leo.20161014112850.33"><vh>OnShape 操作練習</vh>
-<v t="leo.20161014112850.34"><vh>OnShape 實習</vh></v>
-</v>
-<v t="leo.20161014112850.35"><vh>網際自評系統</vh>
-<v t="leo.20161014112850.36"><vh>Flask 網際程式</vh></v>
+<v t="leo.20161014112850.24"><vh>20160923W2</vh>
+<v t="leo.20161014112850.25"><vh>上課日期</vh>
+<v t="leo.20161014112850.26"><vh>20160923</vh></v>
 </v>
 </v>
-<v t="leo.20161014112850.37" a="E"><vh>Windows 環境下可攜環境</vh>
-<v t="leo.20161014112850.38" a="E"><vh>下載 miniconda 可攜環境</vh>
-<v t="leo.20161014112850.39"><vh>下載可攜程式環境</vh></v>
+<v t="leo.20161014112850.37"><vh>20160930W3</vh>
+<v t="leo.20161014112850.38"><vh>上課日期</vh>
+<v t="leo.20161014112850.39"><vh>20160930</vh></v>
 </v>
 </v>
-<v t="leo.20161014112850.40"><vh>各式內容引用範例</vh>
-<v t="leo.20161014112850.41" a="E"><vh>導入數學符號與方程式</vh>
-<v t="leo.20161014112850.42"><vh>LaTeX 格式方程式</vh></v>
+<v t="leo.20161014112850.40"><vh>20161007W4</vh>
+<v t="leo.20161014112850.41"><vh>上課日期</vh>
+<v t="leo.20161014112850.42"><vh>20161007</vh></v>
 </v>
-<v t="leo.20161014112850.43" a="E"><vh>導入縮排程式碼</vh>
-<v t="leo.20161014112850.44"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20161014112850.45" a="E"><vh>導入影片</vh>
-<v t="leo.20161014112850.46"><vh>iframe 導入影片</vh></v>
+<v t="leo.20161104205305.1"><vh>20161014W5</vh>
+<v t="leo.20161104205305.2"><vh>上課日期</vh>
+<v t="leo.20161104205305.3"><vh>20161014</vh></v>
+</v>
+</v>
+<v t="leo.20161104205307.1"><vh>20161021W6</vh>
+<v t="leo.20161104205307.2"><vh>上課日期</vh>
+<v t="leo.20161104205307.3"><vh>20161021</vh></v>
+</v>
+<v t="leo.20161104205307.4"><vh>上課內容1</vh>
+<v t="leo.20161104205307.5"><vh>解決子模組在對應上的問題</vh></v>
+</v>
+</v>
+<v t="leo.20161104205308.1"><vh>20161028W7</vh>
+<v t="leo.20161104205308.2"><vh>上課日期</vh>
+<v t="leo.20161104205308.3"><vh>20161028</vh></v>
+</v>
+<v t="leo.20161104205308.4"><vh>上課內容1</vh>
+<v t="leo.20161104205308.5"><vh>解決子模組設定的問題</vh></v>
+</v>
+</v>
+<v t="leo.20161104205310.1"><vh>20161104W8</vh>
+<v t="leo.20161104205310.2"><vh>上課日期</vh>
+<v t="leo.20161104205310.3"><vh>20161104</vh></v>
 </v>
 </v>
 </v>
@@ -128,6 +115,8 @@
 <v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
 <v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
+<v t="leo.20161104201231.1"><vh>@edit 20161021.md</vh></v>
+<v t="leo.20161104203942.1"><vh>@edit 20161028.md</vh></v>
 </v>
 </v>
 </v>
@@ -711,122 +700,11 @@ DEFAULT_DATE = 'fs'</t>
 
 						
 </t>
-<t tx="leo.20161014112850.11">## 電腦輔助設計在教什麼?
-
-### 創造力
-### 表達力
-以及
-### 協同力
-
-</t>
-<t tx="leo.20161014112850.12">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20161014112850.13"># CAD 在教什麼?
-
-## &lt;span style="color:#FFFF00"&gt;創造力&lt;/span&gt;&lt;small&gt;=自學力+程式力+想像力&lt;/small&gt;
-## &lt;span style="color:#FFFF00"&gt;表達力&lt;/span&gt;&lt;small&gt;=口語+文字+2D+3D+理論+實體&lt;/small&gt;
-&lt;span style="color:#00FF80"&gt;以及&lt;/span&gt;
-## &lt;span style="color:#FFFF00"&gt;協同力&lt;/span&gt;&lt;small&gt;=電腦+網路+工具+專案&lt;/small&gt;
-
-</t>
-<t tx="leo.20161014112850.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20161014112850.15"># CAD 系列課程
-
-## 計算機程式
-## 網際內容管理
-&lt;span style="color:#00FF80"&gt;還有&lt;/span&gt;
-## 協同產品設計實習
-也在研習&lt;span style="color:#FFFF00"&gt;創造力&lt;/span&gt;、&lt;span style="color:#FFFF00"&gt;表達力&lt;/span&gt;與&lt;span style="color:#FFFF00"&gt;協同力&lt;/span&gt;
-
-</t>
-<t tx="leo.20161014112850.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20161014112850.17"># 何謂創造力?
-
-## 能夠&lt;small&gt;&lt;span style="color:#FF0080"&gt;持續&lt;/span&gt;&lt;/small&gt;&lt;span style="color:#FFFF00"&gt;自學&lt;/span&gt;
-## 會安排&lt;small&gt;&lt;span style="color:#FF0080"&gt;高效&lt;/span&gt;&lt;/small&gt;&lt;span style="color:#FFFF00"&gt;可執行&lt;/span&gt;流程
-&lt;span style="color:#00FF80"&gt;還有&lt;/span&gt;
-## 俱備&lt;small&gt;&lt;span style="color:#FF0080"&gt;豐富&lt;/span&gt;&lt;/small&gt;&lt;span style="color:#FFFF00"&gt;想像力&lt;/span&gt;
-
-</t>
-<t tx="leo.20161014112850.18">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20161014112850.19"># 何謂創造力?
-
-## 能夠&lt;small&gt;&lt;span style="color:#FF0080"&gt;持續&lt;/span&gt;&lt;/small&gt;自學-&gt;&lt;span style="color:#FFFF00"&gt;不一定都要別人教&lt;/span&gt;
-## 會安排&lt;small&gt;&lt;span style="color:#FF0080"&gt;高效&lt;/span&gt;&lt;/small&gt;可執行流程-&gt;展現&lt;span style="color:#FFFF00"&gt;執行力&lt;/span&gt;
-&lt;span style="color:#00FF80"&gt;還有&lt;/span&gt;
-## 俱備&lt;small&gt;&lt;span style="color:#FF0080"&gt;豐富&lt;/span&gt;&lt;/small&gt;想像力-&gt;不受限, &lt;span style="color:#FFFF00"&gt;積極進行改造&lt;/span&gt;
-
-</t>
+<t tx="leo.20161014112850.11">## 2016-09-16 第一週</t>
 <t tx="leo.20161014112850.2">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 @others
 &lt;/html&gt;
-</t>
-<t tx="leo.20161014112850.20">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20161014112850.21"># 自學的訓練
-
-## 學員必須自己有學習動機
-## 能消化中英文資料
-## 從中體會學習的意義
-
-
-</t>
-<t tx="leo.20161014112850.22">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20161014112850.23"># 高效執行力
-
-## 用對的方法
-## 在對的時機
-## 找對的人
-## 作對的事
-
-
 </t>
 <t tx="leo.20161014112850.24">&lt;section&gt;
 @others
@@ -840,48 +718,7 @@ DEFAULT_DATE = 'fs'</t>
 
 						
 </t>
-<t tx="leo.20161014112850.26">## 電腦輔助設計實習課程
-
-教學主題
-
-  * 課程網頁、學員網頁、分組網頁串連
-  * Solvespace 零組件繪圖與機構模擬
-  * OnShape 零組件繪圖與機構模擬
-  * Delta 3D printer 零組件繪圖與模擬
-  * Delta 3D printer 零組件列印組立
-  * 建立網際自評系統
-
-
-</t>
-<t tx="leo.20161014112850.27">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20161014112850.28">## Github Pages 網頁
-
-各學員必須完成
-
-  * 個人網頁
-  * Solvespace 零組件繪圖與機構模擬
-  * OnShape 零組件繪圖與機構模擬
-  * Delta 3D printer 零組件繪圖與模擬
-  * 利用 Delta 3D printer 列印零組件並組立
-  * 建立網際自評系統
-</t>
-<t tx="leo.20161014112850.29">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
+<t tx="leo.20161014112850.26">## 2016-09-23 第二週</t>
 <t tx="leo.20161014112850.3">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
@@ -916,65 +753,6 @@ DEFAULT_DATE = 'fs'</t>
 &lt;/head&gt;
 
 </t>
-<t tx="leo.20161014112850.30">## 操作影片錄製
-
-  * Windows 環境下使用 ShareX
-  * Ubuntu 環境下使用 Kazam
-  * 影片檔岸上傳到 Vimeo
-  * 影片檔案上傳到 Youtube
-  * 在投影片與網誌中嵌入影片檔
-</t>
-<t tx="leo.20161014112850.31">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20161014112850.32">## Solvespace 實習
-
-  * Solvespace 零件繪製
-  * Solvespace 零件組立
-  * Delta 3D Printer 機構模擬
-  * 平面四連桿機構模擬與驗證
-  * 平面多連桿機構模擬與驗證
-  * Solvespace 程式編譯
-</t>
-<t tx="leo.20161014112850.33">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20161014112850.34">## OnShape 實習
-
-  * OnShape 零件繪製
-  * OnShape 零件組立
-  * Delta 3D Printer 機構模擬
-  * 平面四連桿機構模擬與驗證
-  * 平面多連桿機構模擬與驗證
-  * Featurescript 範例操作
-</t>
-<t tx="leo.20161014112850.35">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20161014112850.36">## Flask 網際程式
-
-  * 以 CMSimfly 為例
-  * 以 PyGrouf 為例
-  * 以 Jupyterhub 為例
-</t>
 <t tx="leo.20161014112850.37">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
@@ -987,15 +765,7 @@ DEFAULT_DATE = 'fs'</t>
 
 						
 </t>
-<t tx="leo.20161014112850.39">## 下載 miniconda 可攜環境
-
-  * 在電腦教室下載 [mini2016fall.7z](http://140.130.17.17/public/2016fall/mini2016fall_with_leo.7z)
-  * 從外部下載 [mini2016fall.7z](https://140.130.17.101/download/?filepath=/home/yen/cmsimply/wsgi/local_data/downloads/mini2016fall_with_leo.7z)
-  * start.bat 啟動, stop.bat 關閉
-  * 建議存在隨身硬碟中使用
-
-
-</t>
+<t tx="leo.20161014112850.39">## 2016-09-30 第三週</t>
 <t tx="leo.20161014112850.4">&lt;body&gt;
 @others
 &lt;script src="https://cad-lab.github.io/cadlab_data/reveal/lib/js/head.min.js"&gt;&lt;/script&gt;
@@ -1038,67 +808,7 @@ DEFAULT_DATE = 'fs'</t>
 
 						
 </t>
-<t tx="leo.20161014112850.42"># 數學符號與方程式
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
-<t tx="leo.20161014112850.43">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20161014112850.44">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="leo.20161014112850.45">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20161014112850.46">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+<t tx="leo.20161014112850.42">## 2016-10-07 第四週</t>
 <t tx="leo.20161014112850.5">&lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
@@ -1121,17 +831,109 @@ make.start()
 </t>
 <t tx="leo.20161014112850.8">## 2016Fall 電腦輔助設計實習課程
 
-### GROUP 6
+### 虎科大機械設計工程系
+### 設計二乙
+### 2016fallcadp_bg6
 
 &lt;small&gt;
-Created by [2016fallcadp_bg6](http://chiamingyen.github.io/kmolab/blog/)
+Created by [2016fallcadp_bg6](https://40423206.github.io/2016fallcadp_bg6/blog/)
 &lt;/small&gt;
 
-[2016fallcadp_bg6](blog/index.html)
+[乙班電腦輔助設計實習課程網誌](https://mdecourse.github.io/2016fallcadpb/blog)
 </t>
 <t tx="leo.20161014112850.9">&lt;section&gt;
 @others
 &lt;/section&gt;
 </t>
+<t tx="leo.20161104205305.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161104205305.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20161104205305.3">## 2016-10-14 第五週</t>
+<t tx="leo.20161104205307.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161104205307.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20161104205307.3">## 2016-10-21 第六週</t>
+<t tx="leo.20161104205307.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20161104205307.5">## 解決子模組在對應上的問題
+
+組員把自己的倉儲刪除後,在建立一個相同名稱的倉儲,但原先的子模組設定無法抓到組員新的倉儲
+
+以為只要把子模組的資料夾刪除就可以了,但其實不是那麼簡單事,在這之間和組員討論該怎麼解決,學著看程式跟我們說的話,想辦法排除困難,問題解決後感覺組員彼此都成長不少</t>
+<t tx="leo.20161104205308.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161104205308.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20161104205308.3">## 2016-10-28 第七週</t>
+<t tx="leo.20161104205308.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20161104205308.5">## 解決子模組設定的問題
+
+之前把組員的倉儲加入為子模組時,多輸入錯一個人,所以要把多出來的子模組刪除</t>
+<t tx="leo.20161104205310.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161104205310.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20161104205310.3">## 2016-11-04 第八週</t>
 </tnodes>
 </leo_file>
